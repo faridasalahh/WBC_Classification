@@ -1,0 +1,8 @@
+.venv
+checkpoints/
+*.jpg
+.DS_Store
+__pycache__/
+.ipynb_checkpoints
+wbc-bench-2026/
+*.pt
